@@ -18,11 +18,48 @@
         .finalImage{
             margin-left: 550px;
         }
-        .box {
-        width: 180px;
-        height: 180px;
-        background: black;
-        margin: 20px 50px;
+        @-webkit-keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-moz-keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+@-o-keyframes blink {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+img {
+    -webkit-animation: blink 1s;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation: blink 1s;
+    -moz-animation-iteration-count: infinite;
+    -o-animation: blink 1s;
+    -o-animation-iteration-count: infinite;
+}
+
          
     </style>
 </head>
@@ -53,11 +90,6 @@
             Click on any part of logo to know more about these technologies.
         </h5>
     </div>
-    <br>
-    <br>
-<br>
-<br>
-<br>
     <br>
     <br>
     <br>

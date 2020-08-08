@@ -9,6 +9,8 @@
 .center {
     text-align: center;
     font-weight: bold;
+  font-size: large;
+    font-family: sans-serif;
    
 }
 
@@ -23,7 +25,7 @@
 .banner {
     height: 300px;
     padding: 100px;
-    background-color: #ea7373;
+    background-color: #d62f2f;
     color: white;
     font-family: cursive;
     font-size: xx-large;
@@ -38,7 +40,7 @@
 }
 
 .circle-card {
-    background-color: rgb(234 229 89);
+    background-color: rgb(199 193 27);
     width: 15%;
     border-radius: 50%;
     margin: 10px;
@@ -51,7 +53,7 @@
 }
 
 .left-section-2 {
-    background-color: rgb(217 168 226);
+    background-color: rgb(122 60 133);
     width: 60%;
     height: 306px;
     margin: 10px;
@@ -71,7 +73,7 @@
 }
 
 .column {
-    background-color: turquoise;
+    background-color:#34aea2;
     height: 100px;
     margin: 2px;
     padding: 50px 0px;
@@ -89,7 +91,7 @@
 }
 
 .rect-card {
-    background-color: #4cabae;
+    background-color: #bd5d39;
     width: 20%;
     margin: 10px;
    font-family: cursive;
@@ -98,7 +100,7 @@
 
 .footer {
     padding: 10px;
-    background-color: #fa8c8c;;
+    background-color:#722c2c;
     color: white;
    font-family: cursive;
    font-size: larger;

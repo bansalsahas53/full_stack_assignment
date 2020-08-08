@@ -20,6 +20,7 @@
     padding: 10px;
    font-size: larger;
    font-family: cursive;
+  cursor:pointer;
 }
 
 .banner {
@@ -31,12 +32,14 @@
     font-size: xx-large;
    font-size: larger;
    font-family: cursive;
+  cursor:pointer;
 }
 
 .section-1 {
     height: 250px;
     display: flex;
     justify-content: center;
+  cursor:pointer;
 }
 
 .circle-card {
@@ -44,12 +47,14 @@
     width: 15%;
     border-radius: 50%;
     margin: 10px;
+  cursor:pointer;
 }
 
 .section-2 {
     display: flex;
    font-size: larger;
    font-family: cursive;
+  cursor:pointer;
 }
 
 .left-section-2 {
@@ -62,6 +67,7 @@
     font-family: cursive;
     /* font-weight: bold; */
     font-size: x-large;
+  cursor:pointer;
 }
 
 .right-section-2 {
@@ -70,6 +76,7 @@
     width: 40%;
   font-size: larger;
    font-family: cursive;
+  cursor:pointer;
 }
 
 .column {
@@ -80,6 +87,7 @@
     color: white;
   font-size: larger;
   font-family: cursive;
+  cursor:pointer;
 }
 
 .section-3 {
@@ -88,6 +96,7 @@
     justify-content: center;
   font-family: cursive;
    font-size: larger;
+  cursor:pointer;
 }
 
 .rect-card {
@@ -96,6 +105,7 @@
     margin: 10px;
    font-family: cursive;
    font-size: larger;
+  cursor:pointer;
 }
 
 .footer {
@@ -104,6 +114,7 @@
     color: white;
    font-family: cursive;
    font-size: larger;
+  cursor:pointer;}
   
   
 }

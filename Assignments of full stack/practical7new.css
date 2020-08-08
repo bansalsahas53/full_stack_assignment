@@ -41,10 +41,15 @@
     justify-content: center;
   cursor:pointer;
 }
+body {
+    border: ridge 15px;
+    border-color:rgb(255, 255, 255);
+  }
+  
 
 .circle-card {
     background-color: rgb(199 193 27);
-    width: 15%;
+    width: 50%;
     border-radius: 50%;
     margin: 10px;
   cursor:pointer;

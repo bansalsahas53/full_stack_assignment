@@ -698,7 +698,7 @@ a {
         margin: auto;
         height: 100vh;
         transition: 0.9s;
-        background-color: red;
+        background-color: violet;
         color: white;
     }
     #chk:checked~.nav-bar {
@@ -800,7 +800,7 @@ a {
     }
     .footer {
         padding: 10px;
-        background-color: salmon;
+        background-color: magenta;
         color: white;
     }
     .footer a {

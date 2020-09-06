@@ -10,7 +10,7 @@
     width: 100%;
     display: flex;
     height: 70px;
-    position: fixed;
+    position: sticky;
     top: 0;
     background-color: #562349;
     justify-content: center;
@@ -20,7 +20,7 @@
 }
 .header img{
     width:100px;
-    height:80px;
+    height:60px;
     
 }
 .header h2 {
